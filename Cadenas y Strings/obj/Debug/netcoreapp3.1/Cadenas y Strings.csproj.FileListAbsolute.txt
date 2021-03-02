@@ -1,0 +1,13 @@
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\bin\Debug\netcoreapp3.1\Cadenas y Strings.exe
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\bin\Debug\netcoreapp3.1\Cadenas y Strings.deps.json
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\bin\Debug\netcoreapp3.1\Cadenas y Strings.runtimeconfig.json
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\bin\Debug\netcoreapp3.1\Cadenas y Strings.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\bin\Debug\netcoreapp3.1\Cadenas y Strings.dll
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\bin\Debug\netcoreapp3.1\Cadenas y Strings.pdb
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\obj\Debug\netcoreapp3.1\Cadenas y Strings.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\obj\Debug\netcoreapp3.1\Cadenas y Strings.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\obj\Debug\netcoreapp3.1\Cadenas y Strings.AssemblyInfo.cs
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\obj\Debug\netcoreapp3.1\Cadenas y Strings.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\obj\Debug\netcoreapp3.1\Cadenas y Strings.dll
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\obj\Debug\netcoreapp3.1\Cadenas y Strings.pdb
+C:\Users\emanu\Desktop\Programacion\Ejercicios en C#\Cadenas y Strings\obj\Debug\netcoreapp3.1\Cadenas y Strings.genruntimeconfig.cache
